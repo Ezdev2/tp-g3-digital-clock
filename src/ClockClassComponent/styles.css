@@ -1,0 +1,13 @@
+.clock-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+.clock {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 10rem;
+    color: #00f001;
+}
